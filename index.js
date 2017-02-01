@@ -24,23 +24,13 @@ return(arr);
 
 
 
+// TODO - add to array a short description of the programme
+// var now = new Date();
+// var jsonDate = now.toJSON();
+// console.log(jsonDate);
 
-    // function convertToTwoDigits(n) {return n > 9 ? "" + n : "0" + n;};
-    //
-    // var date = new Date(Date.parse(listOfProgrammes.start))
-    // var time = convertToTwoDigits(date.getUTCHours()) + "." + convertToTwoDigits(date.getUTCMinutes());
-    // console.log(time + " - " + listOfProgrammes.programme.programme.title);
-
-
-// go through each entry and check if the programme is on
-// should be a case of comparing
+// TODO make functions for getting current/next programmes
 
 
   }
 })
-
-
-// NOW
-// var now = new Date();
-// var jsonDate = now.toJSON();
-// console.log(jsonDate);
